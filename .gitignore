@@ -1,0 +1,5 @@
+# Ignore the changes in the following folders or files.
+
+extensions/check_xml_format/__pycache__
+extensions/check_xml_format/build
+node_modules/

@@ -1,0 +1,25 @@
+{
+  "name": "readalltextsfromxml",
+  "version": "1.0.0",
+  "description": "Read all texts from xml document and then join all texts with a whitespace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ms-tds",
+    "compare",
+    "hex",
+    "xml",
+    "string",
+    "match"
+  ],
+  "author": "Baoming520 <dingxuanliang@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "child_process": "^1.0.2",
+    "xmldom": "^0.3.0",
+    "xpath": "0.0.27"
+  }
+}
