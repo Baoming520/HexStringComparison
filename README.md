@@ -37,27 +37,27 @@
 
 ### Ex 1
 
-1. Copy the Hex string from MS-TDS in section 4.5, then paste it to the file `./data/hex_data.txt`.
+1. Copy the Hex string from MS-TDS in section 4.5, then paste it to the file `./data/hex_data.txt`.   
  ![Example1-01][Example1-01]
-2. Copy the XML string from MS-TDS in section 4.5, then paste it to the file `./data/xml_data.xml`.
+2. Copy the XML string from MS-TDS in section 4.5, then paste it to the file `./data/xml_data.xml`.   
  ![Example1-02][Example1-02]
-3. Run the command `$ node index.js`, and get the following result.
+3. Run the command `$ node index.js`, and get the following result.   
  ![Example1-03][Example1-03]
-4. Fix the error in line 87, after checking the code, then we can see that here miss an ending tag `</LONG>` in the end of line 86.
+4. Fix the error in line 87, after checking the code, then we can see that here miss an ending tag `</LONG>` in the end of line 86.   
  ![Example1-04][Example1-04]
-5. After fixing the issue, re-run the command `$ node index.js`, we found that there is another error in the line 145 as following image.
+5. After fixing the issue, re-run the command `$ node index.js`, we found that there is another error in the line 145 as following image.   
  ![Example1-05][Example1-05]
-6. Fix the error in line 145, after checking the code, then we can see that here use an unmatched ending tag `</Byte>`.
+6. Fix the error in line 145, after checking the code, then we can see that here use an unmatched ending tag `</Byte>`.   
  ![Example1-06][Example1-06]
-7. After fixing the issue, re-run the command `$ node index.js`, then no error is found.
- ![Example1-07][Example1-07]   
- ![Example1-08][Example1-08]
+7. After fixing the issue, re-run the command `$ node index.js`, then no error is found.   
+ ![Example1-07][Example1-07]      
+ ![Example1-08][Example1-08]   
 
 ### Ex 2
 
 1. Copy the Hex string from MS-TDS in section 4.5, then paste it to the file `./data/hex_data.txt`.
 2. Copy the XML string from MS-TDS in section 4.5, then paste it to the file `./data/xml_data.xml`.
-3. Check the result as following.
+3. Check the result as following.   
  ![Example2-01][Example2-01]
 
 ## Tech

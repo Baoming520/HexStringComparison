@@ -1,7 +1,7 @@
 {
-  "name": "readalltextsfromxml",
+  "name": "hexstringcomparison",
   "version": "1.0.0",
-  "description": "Read all texts from xml document and then join all texts with a whitespace.",
+  "description": "Compare HEX string and readable XML string in MS-TDS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
