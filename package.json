@@ -19,7 +19,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "child_process": "^1.0.2",
-    "xmldom": "^0.3.0",
+    "xmldom": "^0.5.0",
     "xpath": "0.0.27"
   }
 }
